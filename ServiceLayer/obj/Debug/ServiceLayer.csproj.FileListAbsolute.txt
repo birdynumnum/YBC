@@ -1,0 +1,295 @@
+D:\CODE\AngularLAB\Event\V21\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V21\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V21\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V21\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V21\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V22\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V22\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V22\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V22\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V23\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V24\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V26\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V27\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V28\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V29\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V30\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V31\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V32\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V33\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V35\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V38\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V39\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V40\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V45\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V45\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V45\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V45\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V45\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V45\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V45\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V45\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V45\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V45\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V45\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V47\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V47\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V47\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V47\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V47\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V47\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V47\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V47\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V47\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V47\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V47\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V48 null\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V48 null\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V48 null\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V48 null\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V48 null\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V48 null\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V48 null\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V48 null\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V48 null\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V48 null\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V48 null\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V53 EMail\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V53 EMail\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V53 EMail\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V53 EMail\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V53 EMail\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V53 EMail\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V53 EMail\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V53 EMail\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V53 EMail\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V53 EMail\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V53 EMail\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V50 EMail\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V50 EMail\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V50 EMail\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V50 EMail\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V50 EMail\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V50 EMail\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V50 EMail\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V50 EMail\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V50 EMail\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V50 EMail\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V50 EMail\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V51 Delete\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V51 Delete\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V51 Delete\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V51 Delete\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V51 Delete\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V51 Delete\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V51 Delete\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V51 Delete\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V51 Delete\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V51 Delete\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V51 Delete\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V52 Routes\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V52 Routes\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V52 Routes\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V52 Routes\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V52 Routes\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V52 Routes\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V52 Routes\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V52 Routes\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V52 Routes\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V52 Routes\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V52 Routes\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V54 Search\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V54 Search\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V54 Search\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V54 Search\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V54 Search\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V54 Search\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V54 Search\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V54 Search\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V54 Search\V4\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V59 Search\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V59 Search\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V59 Search\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V59 Search\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V59 Search\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V59 Search\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V59 Search\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V59 Search\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V59 Search\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V59 Search\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V59 Search\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V53\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V53\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V53\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V53\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V53\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V53\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V53\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V53\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V53\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V53\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V53\ServiceLayer\obj\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\obj\Debug\ServiceLayer.dll
+D:\CODE\YBC\V56 Final and SQL\ServiceLayer\obj\Debug\ServiceLayer.pdb

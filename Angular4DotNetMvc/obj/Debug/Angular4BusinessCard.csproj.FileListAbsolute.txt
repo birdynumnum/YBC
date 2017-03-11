@@ -1,0 +1,1406 @@
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V24\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Presentation.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\bin\Presentation.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V36\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V37\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V41\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V45\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V45\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V46\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V46\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V46\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V47\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Microsoft.Web.Mvc.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Microsoft.Web.Mvc.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Microsoft.Web.Mvc.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Microsoft.Web.Mvc.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Microsoft.Web.Mvc.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Microsoft.Web.Mvc.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V53\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Antlr3.Runtime.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\DataLayer.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\EntityFramework.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Infrastructure.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Microsoft.Web.Mvc.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\ServiceLayer.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\StructureMap.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\StructureMap.Net4.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Optimization.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\WebGrease.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\DataLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Infrastructure.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\ServiceLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Antlr3.Runtime.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\EntityFramework.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\StructureMap.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\StructureMap.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\StructureMap.Net4.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Optimization.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\obj\Debug\Angular4BusinessCard.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb

@@ -1,0 +1,154 @@
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V22\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V23\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V26\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V27\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V28\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V29\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V30\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V31\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V32\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V33\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V35\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V38\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V39\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V40\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V45\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V45\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V47\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V47\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V48 null\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V53 EMail\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V50 EMail\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V51 Delete\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V52 Routes\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\V4\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V59 Search\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V53\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V53\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V53\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\Domain\bin\Debug\Domain.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\Domain\bin\Debug\Domain.pdb
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\Domain\obj\Debug\Domain.dll
+D:\CODE\YBC\V56 Final and SQL\Angular4DotNetMvc\Domain\obj\Debug\Domain.pdb

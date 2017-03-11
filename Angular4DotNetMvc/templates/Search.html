@@ -1,0 +1,45 @@
+﻿<div class="row">
+    <div class="panel panel-primary">
+        <div class="panel-heading clearfix">
+            <h4 class="panel-title pull-left" style="padding-top: 7.5px;">Business cards</h4>
+            <div class="input-group">
+                <input id="inputSearchCards" type="search" ng-model="key" class="form-control shortInputSearch" placeholder="Filter, search cards..">
+                <div class="input-group-btn">
+                    <button class="btn btn-primary" ng-click="Find();"><i class="glyphicon glyphicon-search"></i></button>
+                    <button class="btn btn-primary" ng-click="clearSearch();"><i class="glyphicon glyphicon-remove-sign"></i></button>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="panel-body">
+                    <div class="col-sm-10" ng-repeat="card in foundcards | orderBy:'name'">
+                        <div class="panel panel-default">
+                            <div class="panel-body">
+                                <div class="table-responsive">
+                                    <table class="table table-condensed shortMargin">
+                                        <tr>
+                                            <td class="shortPadding">Contact Person:</td>
+                                            <td class="shortPadding"><i>{{card.name}}</i></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="shortPadding">Company:</td>
+                                            <td class="shortPadding"><i>{{card.company}}</i></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="shortPadding">Telephone:</td>
+                                            <td class="shortPadding"><i>{{card.telephone}}</i></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="shortPadding">Email:</td>
+                                            <td class="shortPadding"><i>{{card.eMail.value}}</i></td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

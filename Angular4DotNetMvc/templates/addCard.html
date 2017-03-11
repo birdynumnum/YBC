@@ -1,0 +1,84 @@
+﻿<form class="form-horizontal" name="businesscardfrm" role="form" novalidate>
+
+    <fieldset>
+        <legend>Add a Business Card</legend>
+            <div class="form-group" ng-class="{'has-error': businesscardfrm.fullname.$invalid && businesscardfrm.fullname.$dirty}">
+                <label for="Name" class="col-sm-3 control-label">Name</label>
+                <div class="col-sm-9">
+                    <input type="text" id="fullname" name="fullname" class="form-control"
+                           placeholder="Enter Full Name (required)"
+                           ng-model="cards.Name"
+                           ng-minlength="4"
+                           required />
+                </div>
+                <span class="help-block has-error">
+                    <!--     <span ng-show="businesscardfrm.fullname.$error.required">Required</span>-->
+                    <span ng-show="businesscardfrm.fullname.$error.minlength">Minimum of 4 characters</span>
+                </span>
+            </div>
+
+            <div class="form-group" ng-class="{'has-error': businesscardfrm.Company.$invalid && businesscardfrm.Company.$dirty}">
+                <label for="Name" class="col-sm-3 control-label">Company</label>
+                <div class="col-sm-9">
+                    <input type="text" id="Company" name="Company" class="form-control"
+                           placeholder="Enter Company Name"
+                           ng-model="cards.Company"
+                           ng-minlength="2" />
+                </div>
+                <span class="help-block has-error">
+                    <span ng-show="businesscardfrm.Company.$error.minlength">Minimum of 2 characters</span>
+                </span>
+            </div>
+
+            <div class="form-group" ng-class="{'has-error': businesscardfrm.Email.$invalid && businesscardfrm.Email.$dirty}">
+                <label for="Name" class="col-sm-3 control-label">Email</label>
+                <div class="col-sm-9">
+                    <input type="email" id="Email" name="Email" class="form-control"
+                           placeholder="Enter Email address"
+                           ng-model="cards.Email"
+                           ng-minlength="4" />
+                </div>
+                <span class="help-block has-error">
+                    <span ng-show="businesscardfrm.Email.$error.minlength">Minimum of 4 characters</span>
+                </span>
+            </div>
+
+            <div class="form-group" ng-class="{'has-error': businesscardfrm.Tel.$invalid && businesscardfrm.Tel.$dirty}">
+                <label for="Name" class="col-sm-3 control-label">Telephone number</label>
+                <div class="col-sm-9">
+                    <input type="text" id="Tel" name="Tel" class="form-control"
+                           placeholder="Enter Telephone number"
+                           ng-model="cards.Telephone"
+                           ng-minlength="4" />
+                </div>
+                <span class="help-block has-error">
+                    <span ng-show="businesscardfrm.Tel.$error.minlength">Minimum of 4 characters</span>
+                </span>
+            </div>
+
+            <div class="form-group" ng-class="{'has-error': businesscardfrm.Notes.$invalid && businesscardfrm.Notes.$dirty}">
+                <label for="Notes" class="col-sm-3 control-label">Notes</label>
+                <div class="col-sm-9">
+                    <textarea rows="4" cols="45" class="form-control"
+                              placeholder="Enter some notes (optional)"
+                              ng-model="cards.Notes"
+                              ng-maxlength="125"></textarea>
+                </div>
+                <span class="help-block has-error">
+                    <span ng-show="businesscardfrm.Notes.$error.maxlength">Minimum of 125 characters</span>
+                </span>
+            </div>
+            <br />
+    </fieldset>
+
+
+    <input type="button" class="btn btn-default col-sm-offset-3" value="Cancel"
+           ng-click="cancelForm()" />
+    <input type="reset" class="btn btn-default col-sm-offset-3" value="Reset"
+           ng-click="resetForm()" />
+    <input type="submit" class="btn btn-primary col-sm-offset-3" value="Submit"
+           ng-disabled="businesscardfrm.$invalid"
+           ng-click="submitForm(cards)" />
+
+</form>
+

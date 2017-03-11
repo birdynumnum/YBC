@@ -1,0 +1,651 @@
+c:\Dev\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+c:\Dev\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+c:\Dev\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Net.Http.Formatting.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Http.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Http.WebHost.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Razor.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+c:\Dev\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+c:\Dev\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Net.Http.Formatting.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Http.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Http.WebHost.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Web.Razor.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+c:\Dev\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+c:\Dev\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+c:\Dev\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+c:\Dev\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+c:\Dev\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+C:\temp\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V1\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V3\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V4\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V5\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V6\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V7 routing adventures\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V7 routing adventures\V2\PostingDataToAnMvcAction\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V9 Q lib\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V10\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V11 nested scopes\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V2\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V4\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V13\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V15\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V16\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V17\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V18\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V20\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll.config
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Angular4DotNetMvc.pdb
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\AutoMapper.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Domain.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Newtonsoft.Json.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.Helpers.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.Http.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.Mvc.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.Razor.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.WebPages.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Domain.pdb
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\AutoMapper.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Newtonsoft.Json.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.Mvc.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\Microsoft.Web.Infrastructure.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.Helpers.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.Http.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.Razor.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.WebPages.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.WebPages.Deployment.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\bin\System.Web.WebPages.Razor.xml
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.dll
+D:\CODE\AngularLAB\Event\V21\Angular4DotNetMvc\obj\Debug\Angular4DotNetMvc.pdb

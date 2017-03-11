@@ -1,0 +1,438 @@
+D:\CODE\AngularLAB\Event\V23\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V23\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V23\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V23\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V26\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V26\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V26\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V26\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V27\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V27\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\Presentation.dll
+D:\CODE\AngularLAB\Event\V27\Infrastructure\bin\Debug\Presentation.pdb
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V28\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V28\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V28\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V28\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V29\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V29\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V29\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V29\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V30\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V30\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V30\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V30\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V31\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V31\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V31\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V31\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V32\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V32\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V32\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V32\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V33\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V33\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V33\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V33\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V35\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V35\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V35\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V35\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V38\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V38\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V38\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V38\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V39\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V39\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V39\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V39\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\AngularLAB\Event\V40\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V40\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V40\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\AngularLAB\Event\V40\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V45\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V45\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V45\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V45\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V47\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V47\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V47\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V47\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V48 null\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V48 null\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V48 null\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V48 null\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V53 EMail\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V53 EMail\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V53 EMail\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V53 EMail\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V50 EMail\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V50 EMail\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V50 EMail\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V50 EMail\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V51 Delete\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V51 Delete\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V51 Delete\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V51 Delete\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V52 Routes\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V52 Routes\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V52 Routes\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V52 Routes\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V54 Search\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V54 Search\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V54 Search\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V54 Search\V4\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V54 Search\V4\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\V4\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V54 Search\V4\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V59 Search\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V59 Search\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V59 Search\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V59 Search\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V53\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V53\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V53\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V53\Infrastructure\obj\Debug\Infrastructure.pdb
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\Infrastructure.dll
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\Infrastructure.pdb
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\Domain.dll
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\ServiceLayer.dll
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\StructureMap.dll
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\StructureMap.Net4.dll
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\Domain.pdb
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\ServiceLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\StructureMap.pdb
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\StructureMap.xml
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\StructureMap.Net4.pdb
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\obj\Debug\Infrastructure.dll
+D:\CODE\YBC\V56 Final and SQL\Infrastructure\obj\Debug\Infrastructure.pdb

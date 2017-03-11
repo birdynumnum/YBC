@@ -1,0 +1,402 @@
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V1\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V3\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V12 Layered\V6\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V13\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V13\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V13\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V13\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V13\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V13\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V13\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V13\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V13\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V13\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V15\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V15\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V15\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V15\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V15\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V15\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V15\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V15\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V15\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V15\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V17\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V17\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V17\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V17\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V17\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V17\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V17\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V17\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V17\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V17\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V21\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V21\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V21\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V21\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V21\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V21\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V21\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V21\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V21\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V21\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V22\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V22\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V22\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V22\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V22\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V22\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V22\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V22\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V22\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V22\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V23\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V23\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V23\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V23\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V24\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V24\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V24\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V24\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V26\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V26\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V26\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V26\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V27\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V27\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V27\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V27\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V28\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V28\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V28\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V28\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V29\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V29\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V29\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V29\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V30\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V30\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V30\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V30\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V31\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V31\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V31\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V31\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V32\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V32\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V32\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V32\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V33\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V33\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V33\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V33\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V35\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V35\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V35\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V35\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V38\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V38\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V38\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V38\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V39\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V39\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V39\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V39\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\Domain.dll
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\AngularLAB\Event\V40\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\AngularLAB\Event\V40\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\AngularLAB\Event\V40\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\AngularLAB\Event\V40\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V45\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V45\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V45\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V45\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V45\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V45\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V45\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V45\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V45\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V45\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V45\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V45\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V47\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V47\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V47\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V47\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V47\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V47\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V47\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V47\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V47\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V47\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V47\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V47\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V48 null\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V48 null\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V48 null\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V48 null\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V53 EMail\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V53 EMail\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V53 EMail\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V53 EMail\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V50 EMail\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V50 EMail\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V50 EMail\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V50 EMail\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V51 Delete\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V51 Delete\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V51 Delete\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V51 Delete\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V52 Routes\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V52 Routes\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V52 Routes\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V52 Routes\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V54 Search\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V54 Search\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V54 Search\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V54 Search\V4\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V54 Search\V4\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V54 Search\V4\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V54 Search\V4\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V59 Search\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V59 Search\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V59 Search\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V59 Search\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V53\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V53\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V53\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V53\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V53\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V53\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V53\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V53\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V53\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V53\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V53\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V53\DataLayer\obj\Debug\DataLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\DataLayer.dll.config
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\DataLayer.dll
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\DataLayer.pdb
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\Domain.dll
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\EntityFramework.dll
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\Domain.pdb
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\EntityFramework.xml
+D:\CODE\YBC\V56 Final and SQL\DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+D:\CODE\YBC\V56 Final and SQL\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+D:\CODE\YBC\V56 Final and SQL\DataLayer\obj\Debug\DataLayer.dll
+D:\CODE\YBC\V56 Final and SQL\DataLayer\obj\Debug\DataLayer.pdb
